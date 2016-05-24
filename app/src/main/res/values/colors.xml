@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
+=======
+
+>>>>>>> dc78640767f374d6491b763d7c93cc4db05ea7e5
     <color name="colorPrimary">#8BC34A</color>
     <color name="colorPrimaryDark">#689F38</color>
     <color name="colorPrimaryLight">#DCEDC8</color>
@@ -8,4 +12,10 @@
     <color name="secondary_text">#727272</color>
     <color name="icons">#212121</color>
     <color name="divider">#B6B6B6</color>
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> dc78640767f374d6491b763d7c93cc4db05ea7e5
 </resources>
